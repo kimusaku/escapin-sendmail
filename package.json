@@ -20,7 +20,7 @@
   "author": "Kimura, Kosaku <kimusaku@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "uuid": "^8.0.0"
+    "uuid": "^8.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
