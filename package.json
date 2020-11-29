@@ -23,7 +23,7 @@
     "uuid": "^8.2.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.10.4",
+    "@babel/cli": "^7.12.8",
     "@babel/core": "^7.10.4",
     "@babel/preset-env": "^7.10.3",
     "babel-loader": "^8.1.0",
